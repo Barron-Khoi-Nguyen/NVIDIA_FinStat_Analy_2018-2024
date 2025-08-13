@@ -1,2 +1,16 @@
-# NVIDIA_FinStat_Analy_2018-2024
-This is the NVIDIA Financial Statement Analysis Project (2018 - 2024). Using the Power BI to visualize the financial ratios.
+# NVIDIA Financial Analysis and Visualization 2018-2024
+
+## Project Background
+NVIDIA Corporation, founded in 1993, is a global leader in the semiconductor industry, specializing in graphics processing units (GPUs), artificial intelligence (AI), and high-performance computing solutions.
+
+This project analyzes NVIDIA’s financial ratios from 2017 to 2023, with the goal of transforming raw figures into clear, interactive visualizations in Power BI. By doing so, the report becomes more intuitive and accessible for stakeholders, allowing faster and more informed evaluations of the company’s financial health.
+
+The dashboard includes 5 categories:
+- **Overview:** Shows NVIDIA’s revenue and total expenses from 2018–2024, along with the breakdown of their structure.
+- **Current Ratios:** Evaluates short-term liquidity and operational efficiency to assess the company’s ability to meet its obligations.
+- **Leverage Ratios:** Analyzes the capital structure and debt management to determine financial stability and risk exposure.
+- **Profitability Ratios:** Measures profit margins and returns, providing insight into overall business performance and competitive positioning.
+- **Cash Flows Analysis:** Tracks cash inflows and outflows to assess the company’s capacity to sustain operations, invest in growth, and return value to shareholders.
+
+An interactive Power BI dashboard can be found here ([Link](https://github.com/Barron-Khoi-Nguyen/NVIDIA_FinStat_Analy_2018-2024/blob/main/NVIDIA%20Financial%20Ratios%20Visualiztion%202018-2024.pbix))
+
