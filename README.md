@@ -14,3 +14,5 @@ The dashboard includes 5 categories:
 
 An interactive Power BI dashboard can be found here ([Link](https://github.com/Barron-Khoi-Nguyen/NVIDIA_FinStat_Analy_2018-2024/blob/main/NVIDIA%20Financial%20Ratios%20Visualiztion%202018-2024.pbix))
 
+## Dataframe
+I obtained NVIDIA’s financial statements from the SEC’s official website (sec.gov) and compiled the data for each fiscal year from 2018 to 2024. Using Excel, I cleaned and merged the individual yearly statements into a single, consolidated dataset, ensuring the information was structured and ready for analysis in Power BI.
